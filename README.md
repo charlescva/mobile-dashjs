@@ -16,7 +16,11 @@ Modern HTML5 mobile UI, allowing the storage and DASHing of static video content
 System requirements
 -------------------
 
-All you need to build this project is Java 7.0 (Java SDK 1.7) or better, Maven 3.1 or better.
+Ultimately, this project depends on the Castlab's dashencrypt project, listed as a dependency in the pom. This can be downloading, compiled and installed in to your local repo from https://github.com/castlabs/dashencrypt
+
+
+
+You also need Java 7.0 (Java SDK 1.7) or better, Maven 3.1 or better.
 
 The application this project produces is designed to be run on JBoss WildFly.
 
